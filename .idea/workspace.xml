@@ -176,7 +176,7 @@
       <workItem from="1606069877158" duration="871000" />
       <workItem from="1606073989427" duration="686000" />
       <workItem from="1606076707648" duration="1784000" />
-      <workItem from="1606085319229" duration="1306000" />
+      <workItem from="1606085319229" duration="1622000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1606078031105</created>
@@ -220,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606086555963</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit">
+      <created>1606086756601</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606086756601</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,38 +258,38 @@
       <screen x="0" y="0" width="1848" height="1080" />
     </state>
     <state x="1285" y="497" key="FileChooserDialogImpl/0.0.1848.1080@0.0.1848.1080" timestamp="1606086617841" />
-    <state width="1788" height="354" key="GridCell.Tab.0.bottom" timestamp="1606078478053">
+    <state width="1788" height="354" key="GridCell.Tab.0.bottom" timestamp="1606086882837">
       <screen x="0" y="0" width="1848" height="1080" />
     </state>
-    <state width="1788" height="354" key="GridCell.Tab.0.bottom/0.0.1848.1080@0.0.1848.1080" timestamp="1606078478053" />
-    <state width="1788" height="354" key="GridCell.Tab.0.center" timestamp="1606078478053">
+    <state width="1788" height="354" key="GridCell.Tab.0.bottom/0.0.1848.1080@0.0.1848.1080" timestamp="1606086882837" />
+    <state width="1788" height="354" key="GridCell.Tab.0.center" timestamp="1606086882837">
       <screen x="0" y="0" width="1848" height="1080" />
     </state>
-    <state width="1788" height="354" key="GridCell.Tab.0.center/0.0.1848.1080@0.0.1848.1080" timestamp="1606078478053" />
-    <state width="1788" height="354" key="GridCell.Tab.0.left" timestamp="1606078478053">
+    <state width="1788" height="354" key="GridCell.Tab.0.center/0.0.1848.1080@0.0.1848.1080" timestamp="1606086882837" />
+    <state width="1788" height="354" key="GridCell.Tab.0.left" timestamp="1606086882837">
       <screen x="0" y="0" width="1848" height="1080" />
     </state>
-    <state width="1788" height="354" key="GridCell.Tab.0.left/0.0.1848.1080@0.0.1848.1080" timestamp="1606078478053" />
-    <state width="1788" height="354" key="GridCell.Tab.0.right" timestamp="1606078478053">
+    <state width="1788" height="354" key="GridCell.Tab.0.left/0.0.1848.1080@0.0.1848.1080" timestamp="1606086882837" />
+    <state width="1788" height="354" key="GridCell.Tab.0.right" timestamp="1606086882837">
       <screen x="0" y="0" width="1848" height="1080" />
     </state>
-    <state width="1788" height="354" key="GridCell.Tab.0.right/0.0.1848.1080@0.0.1848.1080" timestamp="1606078478053" />
-    <state width="1788" height="354" key="GridCell.Tab.1.bottom" timestamp="1606078478053">
+    <state width="1788" height="354" key="GridCell.Tab.0.right/0.0.1848.1080@0.0.1848.1080" timestamp="1606086882837" />
+    <state width="1788" height="354" key="GridCell.Tab.1.bottom" timestamp="1606086882838">
       <screen x="0" y="0" width="1848" height="1080" />
     </state>
-    <state width="1788" height="354" key="GridCell.Tab.1.bottom/0.0.1848.1080@0.0.1848.1080" timestamp="1606078478053" />
-    <state width="1788" height="354" key="GridCell.Tab.1.center" timestamp="1606078478053">
+    <state width="1788" height="354" key="GridCell.Tab.1.bottom/0.0.1848.1080@0.0.1848.1080" timestamp="1606086882838" />
+    <state width="1788" height="354" key="GridCell.Tab.1.center" timestamp="1606086882838">
       <screen x="0" y="0" width="1848" height="1080" />
     </state>
-    <state width="1788" height="354" key="GridCell.Tab.1.center/0.0.1848.1080@0.0.1848.1080" timestamp="1606078478053" />
-    <state width="1788" height="354" key="GridCell.Tab.1.left" timestamp="1606078478053">
+    <state width="1788" height="354" key="GridCell.Tab.1.center/0.0.1848.1080@0.0.1848.1080" timestamp="1606086882838" />
+    <state width="1788" height="354" key="GridCell.Tab.1.left" timestamp="1606086882838">
       <screen x="0" y="0" width="1848" height="1080" />
     </state>
-    <state width="1788" height="354" key="GridCell.Tab.1.left/0.0.1848.1080@0.0.1848.1080" timestamp="1606078478053" />
-    <state width="1788" height="354" key="GridCell.Tab.1.right" timestamp="1606078478053">
+    <state width="1788" height="354" key="GridCell.Tab.1.left/0.0.1848.1080@0.0.1848.1080" timestamp="1606086882838" />
+    <state width="1788" height="354" key="GridCell.Tab.1.right" timestamp="1606086882838">
       <screen x="0" y="0" width="1848" height="1080" />
     </state>
-    <state width="1788" height="354" key="GridCell.Tab.1.right/0.0.1848.1080@0.0.1848.1080" timestamp="1606078478053" />
+    <state width="1788" height="354" key="GridCell.Tab.1.right/0.0.1848.1080@0.0.1848.1080" timestamp="1606086882838" />
     <state x="425" y="185" key="SettingsEditor" timestamp="1606086638728">
       <screen x="0" y="0" width="1848" height="1080" />
     </state>
@@ -296,11 +303,16 @@
           <line>27</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/session1/a_word_cloud.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/MACT20_21_Digital_tools_Big_Data_part_1$a_word_cloud.coverage" NAME="a_word_cloud Coverage Results" MODIFIED="1606086572543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/MACT20_21_Digital_tools_Big_Data_part_1$a_word_cloud.coverage" NAME="a_word_cloud Coverage Results" MODIFIED="1606086882813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
     <SUITE FILE_PATH="coverage/MACT20_21_Digital_tools_Big_Data_part_1$flooded_areas_of_Luxembourg.coverage" NAME="flooded areas of Luxembourg Coverage Results" MODIFIED="1606078478033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
     <SUITE FILE_PATH="coverage/MACT20_21_Digital_tools_Big_Data_part_1$c_basic_plotting.coverage" NAME="c_basic_plotting Coverage Results" MODIFIED="1606077245674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
   </component>
