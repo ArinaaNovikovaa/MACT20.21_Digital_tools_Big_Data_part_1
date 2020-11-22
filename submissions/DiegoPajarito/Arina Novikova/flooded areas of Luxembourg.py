@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
-biotopes = pd.read_csv(' ', delimiter=',', error_bad_lines=False)
+biotopes = pd.read_csv('..submissions/Arina Novikova/rivers.csv', delimiter=',', error_bad_lines=False)
 # Slicing the two columns I am interested in
 slice_wet = biotopes[['Area', 'wet_types']]
 print(slice_wet)
