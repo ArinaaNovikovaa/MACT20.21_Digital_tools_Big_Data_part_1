@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2430f56a-bf19-4d9f-9821-a36cf4dfb6c6" name="Default Changelist" comment="commit">
-      <change beforePath="$PROJECT_DIR$/.idea/MACT20.21_Digital_tools_Big_Data_part_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MACT20.21_Digital_tools_Big_Data_part_1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/submissions/DiegoPajarito/Arina Novikova/flooded areas of Luxembourg.py" beforeDir="false" afterPath="$PROJECT_DIR$/submissions/DiegoPajarito/Arina Novikova/flooded areas of Luxembourg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session1/a_word_cloud.py" beforeDir="false" afterPath="$PROJECT_DIR$/session1/a_word_cloud.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +65,7 @@
       <recent name="D:\учеба\поступление\iaac\pre-courses\python\MACT20.21_Digital_tools_Big_Data_part_1\submissions\DiegoPajarito\Arina Novikova" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.flooded areas of Luxembourg">
+  <component name="RunManager" selected="Python.a_word_cloud">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="MACT20.21_Digital_tools_Big_Data_part_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,6 +80,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a_word_cloud" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MACT20.21_Digital_tools_Big_Data_part_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Novik\anaconda3\envs\snowflakes\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/session1/a_word_cloud.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,6 +156,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.a_word_cloud" />
         <item itemvalue="Python.flooded areas of Luxembourg" />
         <item itemvalue="Python.c_basic_plotting" />
       </list>
@@ -156,7 +176,7 @@
       <workItem from="1606069877158" duration="871000" />
       <workItem from="1606073989427" duration="686000" />
       <workItem from="1606076707648" duration="1784000" />
-      <workItem from="1606085319229" duration="1053000" />
+      <workItem from="1606085319229" duration="1306000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1606078031105</created>
@@ -172,7 +192,35 @@
       <option name="project" value="LOCAL" />
       <updated>1606078068617</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1606086389574</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606086389574</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit">
+      <created>1606086405767</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606086405767</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <created>1606086457931</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606086457931</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit">
+      <created>1606086555963</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606086555963</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,10 +247,10 @@
       <screen x="0" y="0" width="1848" height="1080" />
     </state>
     <state x="378" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1848.1080@0.0.1848.1080" timestamp="1606070141932" />
-    <state x="1285" y="497" key="FileChooserDialogImpl" timestamp="1606085356373">
+    <state x="1285" y="497" key="FileChooserDialogImpl" timestamp="1606086617841">
       <screen x="0" y="0" width="1848" height="1080" />
     </state>
-    <state x="1285" y="497" key="FileChooserDialogImpl/0.0.1848.1080@0.0.1848.1080" timestamp="1606085356373" />
+    <state x="1285" y="497" key="FileChooserDialogImpl/0.0.1848.1080@0.0.1848.1080" timestamp="1606086617841" />
     <state width="1788" height="354" key="GridCell.Tab.0.bottom" timestamp="1606078478053">
       <screen x="0" y="0" width="1848" height="1080" />
     </state>
@@ -235,10 +283,10 @@
       <screen x="0" y="0" width="1848" height="1080" />
     </state>
     <state width="1788" height="354" key="GridCell.Tab.1.right/0.0.1848.1080@0.0.1848.1080" timestamp="1606078478053" />
-    <state x="425" y="185" key="SettingsEditor" timestamp="1606085379502">
+    <state x="425" y="185" key="SettingsEditor" timestamp="1606086638728">
       <screen x="0" y="0" width="1848" height="1080" />
     </state>
-    <state x="425" y="185" key="SettingsEditor/0.0.1848.1080@0.0.1848.1080" timestamp="1606085379502" />
+    <state x="425" y="185" key="SettingsEditor/0.0.1848.1080@0.0.1848.1080" timestamp="1606086638728" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -252,6 +300,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MACT20_21_Digital_tools_Big_Data_part_1$a_word_cloud.coverage" NAME="a_word_cloud Coverage Results" MODIFIED="1606086572543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
     <SUITE FILE_PATH="coverage/MACT20_21_Digital_tools_Big_Data_part_1$flooded_areas_of_Luxembourg.coverage" NAME="flooded areas of Luxembourg Coverage Results" MODIFIED="1606078478033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
     <SUITE FILE_PATH="coverage/MACT20_21_Digital_tools_Big_Data_part_1$c_basic_plotting.coverage" NAME="c_basic_plotting Coverage Results" MODIFIED="1606077245674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
   </component>

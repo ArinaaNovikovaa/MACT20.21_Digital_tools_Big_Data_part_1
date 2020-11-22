@@ -38,7 +38,7 @@ plt.show()
 
 # Let's do it using a text file
 
-text = open('../submissions/ArinaNovikova/text_article.txt').read()
+text = open('../submissions/ArinaNovikova/flooding LUX.txt').read()
 text = text.upper()
 
 # Create the wordcloud object
