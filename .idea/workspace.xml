@@ -1,15 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2430f56a-bf19-4d9f-9821-a36cf4dfb6c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/submissions/DiegoPajarito/Arina Novikova/flooded areas of Luxembourg.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/MACT20.21_Digital_tools_Big_Data_part_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MACT20.21_Digital_tools_Big_Data_part_1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4/c_basic_plotting.py" beforeDir="false" afterPath="$PROJECT_DIR$/session4/c_basic_plotting.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
     <envs>
@@ -34,6 +61,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -45,12 +73,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Novik\anaconda3\envs\snowflakes\python.exe" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,6 +87,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="c_basic_plotting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MACT20.21_Digital_tools_Big_Data_part_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Novik\anaconda3\envs\snowflakes\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/session4/c_basic_plotting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.c_basic_plotting" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -71,24 +126,84 @@
       <workItem from="1606062210590" duration="2202000" />
       <workItem from="1606064462098" duration="594000" />
       <workItem from="1606068894431" duration="5000" />
+      <workItem from="1606069877158" duration="871000" />
+      <workItem from="1606073989427" duration="686000" />
+      <workItem from="1606076707648" duration="1063000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="378" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606064328405">
+    <state x="378" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606070141932">
       <screen x="0" y="0" width="1848" height="1080" />
     </state>
-    <state x="378" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1848.1080@0.0.1848.1080" timestamp="1606064328405" />
-    <state x="1285" y="497" key="FileChooserDialogImpl" timestamp="1606064352894">
+    <state x="378" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1848.1080@0.0.1848.1080" timestamp="1606070141932" />
+    <state x="1285" y="497" key="FileChooserDialogImpl" timestamp="1606077452073">
       <screen x="0" y="0" width="1848" height="1080" />
     </state>
-    <state x="1285" y="497" key="FileChooserDialogImpl/0.0.1848.1080@0.0.1848.1080" timestamp="1606064352894" />
-    <state x="425" y="185" key="SettingsEditor" timestamp="1606064358060">
+    <state x="1285" y="497" key="FileChooserDialogImpl/0.0.1848.1080@0.0.1848.1080" timestamp="1606077452073" />
+    <state width="1805" height="354" key="GridCell.Tab.0.bottom" timestamp="1606077245872">
       <screen x="0" y="0" width="1848" height="1080" />
     </state>
-    <state x="425" y="185" key="SettingsEditor/0.0.1848.1080@0.0.1848.1080" timestamp="1606064358060" />
+    <state width="1805" height="354" key="GridCell.Tab.0.bottom/0.0.1848.1080@0.0.1848.1080" timestamp="1606077245872" />
+    <state width="1805" height="354" key="GridCell.Tab.0.center" timestamp="1606077245872">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state width="1805" height="354" key="GridCell.Tab.0.center/0.0.1848.1080@0.0.1848.1080" timestamp="1606077245872" />
+    <state width="1805" height="354" key="GridCell.Tab.0.left" timestamp="1606077245871">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state width="1805" height="354" key="GridCell.Tab.0.left/0.0.1848.1080@0.0.1848.1080" timestamp="1606077245871" />
+    <state width="1805" height="354" key="GridCell.Tab.0.right" timestamp="1606077245872">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state width="1805" height="354" key="GridCell.Tab.0.right/0.0.1848.1080@0.0.1848.1080" timestamp="1606077245872" />
+    <state width="1805" height="354" key="GridCell.Tab.1.bottom" timestamp="1606077247422">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state width="1805" height="354" key="GridCell.Tab.1.bottom/0.0.1848.1080@0.0.1848.1080" timestamp="1606077247422" />
+    <state width="1805" height="354" key="GridCell.Tab.1.center" timestamp="1606077247422">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state width="1805" height="354" key="GridCell.Tab.1.center/0.0.1848.1080@0.0.1848.1080" timestamp="1606077247422" />
+    <state width="1805" height="354" key="GridCell.Tab.1.left" timestamp="1606077247422">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state width="1805" height="354" key="GridCell.Tab.1.left/0.0.1848.1080@0.0.1848.1080" timestamp="1606077247422" />
+    <state width="1805" height="354" key="GridCell.Tab.1.right" timestamp="1606077247422">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state width="1805" height="354" key="GridCell.Tab.1.right/0.0.1848.1080@0.0.1848.1080" timestamp="1606077247422" />
+    <state x="425" y="185" key="SettingsEditor" timestamp="1606077471278">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state x="425" y="185" key="SettingsEditor/0.0.1848.1080@0.0.1848.1080" timestamp="1606077471278" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/session4/c_basic_plotting.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MACT20_21_Digital_tools_Big_Data_part_1$c_basic_plotting.coverage" NAME="c_basic_plotting Coverage Results" MODIFIED="1606077245674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
   </component>
 </project>

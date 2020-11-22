@@ -25,7 +25,7 @@ import seaborn as sns
 import numpy as np
 
 # We read the file for population data
-a_df = pd.read_csv('../data/catalunya/AMB_municipalities_min.csv')
+a_df = pd.read_csv('D:\учеба\iaac\STUDING\data\submissin\rivers.csv')
 
 # Range is the combination of min-max values
 print('####################')
